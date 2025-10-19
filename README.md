@@ -1,7 +1,7 @@
 ### Hi there, I'm Derek 👋
 
 
-### I'm a Husband, Father, Engineer, Triathlete and Developer!
+### I'm a Husband, Father, Engineer, and Triathlete!
 
 - 🔭 I’m currently working on Python Programing!
 - 🌱 I’m currently learning everything 🤣
